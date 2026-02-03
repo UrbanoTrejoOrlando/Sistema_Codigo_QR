@@ -1,0 +1,6 @@
+{
+  "nombre_usuario": "Bryan Alejandro Martinez Lopez",
+  "password": "bryan123",
+  "rol": "admin"
+}
+ ruta: http://localhost:3003/api/createadmin
