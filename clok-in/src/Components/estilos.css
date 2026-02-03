@@ -1,0 +1,27 @@
+.navbar {
+  background-color: rgba(8, 6, 17, 0.808);
+  /* Fondo blanco semitransparente */
+  backdrop-filter: blur(4px);
+  /* Opcional: desenfoque para mejor efecto */
+}
+
+.asistencia-si {
+  background: #28a745 !important;
+  /* verde */
+  color: white !important;
+  border-radius: 50%;
+}
+
+.asistencia-no {
+  background: #dc3545 !important;
+  /* rojo */
+  color: white !important;
+  border-radius: 50%;
+}
+
+.hoy {
+  background: #007bff !important;
+  /* azul */
+  color: white !important;
+  border-radius: 50%;
+}

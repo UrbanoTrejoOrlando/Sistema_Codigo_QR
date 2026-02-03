@@ -1,0 +1,25 @@
+.login-fondo {
+  background-image: url('../src/assets/vector.png');
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-image:
+    linear-gradient(
+      to bottom, 
+      rgba(255,255,255,0.9) 0%, 
+      rgba(255,255,255,0.0) 20%, 
+      rgba(255,255,255,0.0) 80%, 
+      rgba(255,255,255,0.9) 100%
+    ),
+    linear-gradient(
+      to right, 
+      rgba(255,255,255,0.9) 0%, 
+      rgba(255,255,255,0.0) 20%, 
+      rgba(255,255,255,0.0) 80%, 
+      rgba(255,255,255,0.9) 100%
+    ),
+    url('../src/assets/vector.png');
+  background-size: cover;
+  background-position: center;
+}
+

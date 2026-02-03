@@ -1,0 +1,29 @@
+/* Puedes poner esto en tu archivo de estilos globales */
+.calendario-grande {
+  font-size: 1.3rem;
+}
+
+/* ✅ Días con asistencia (verde) */
+.asistencia-dia {
+  background-color: #28a745 !important; /* Verde */
+  color: white !important;
+  border: 2px solid #000 !important; /* Borde negro */
+}
+
+/* ❌ Días con ausencia (rojo) */
+.ausencia-dia {
+  background-color: #dc3545 !important; /* Rojo */
+  color: white !important;
+  border: 2px solid #000 !important; /* Borde negro */
+}
+
+.retardo-dia {
+  background-color: #ffc107 !important; /* Amarillo */
+  color: black !important;
+  border: 2px solid black !important;
+}
+
+/* Tamaño general del calendario */
+.calendario-grande {
+  font-size: 1.2rem;
+}
